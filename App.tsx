@@ -177,7 +177,7 @@ const App: React.FC = () => {
             </div>
             <div>
               <h1 className="text-xl font-black tracking-tighter text-[#00FF41] uppercase italic flex items-center gap-2">
-                XV6<span className="text-white">_ULTIMATE_KERNEL</span> // <span className="text-[#00FF41]/50 text-sm">v2.5.0-LTS</span>
+                XV6<span className="text-white">_ULTIMATE_KERNEL_CHALLENGE</span> // <span className="text-[#00FF41]/50 text-sm">v2.5.0-LTS</span>
               </h1>
               <p className="text-[10px] text-[#00FF41]/40 mono font-bold">MODE: LOW_LEVEL_DEBUGGING</p>
             </div>
@@ -559,7 +559,7 @@ const App: React.FC = () => {
 
         <div className="flex items-center justify-between text-[#00FF41]/20 text-[10px] mono uppercase tracking-widest px-2 pt-4 border-t border-[#00FF41]/10">
           <span>PLATFORM: XV6-RISCV</span>
-          <span>© 2025 MATRIX_KERNEL_RECOVERY_LABS</span>
+          <span>© 2026 Ingeniería en Sistemas Computacionales</span>
           <span>SECURITY: OMEGA_III</span>
         </div>
       </div>

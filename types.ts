@@ -16,7 +16,7 @@ export interface GameState {
   encodedFlag: string;
 }
 
-export const INITIAL_TIME = 180; // 3 minutes for more complex challenge
+export const INITIAL_TIME = 300; // 3 minutes for more complex challenge
 
 export const generateFlag = () => {
   const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
