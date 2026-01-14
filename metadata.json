@@ -1,0 +1,5 @@
+{
+  "name": "The Locked Terminal - Crypto Challenge",
+  "description": "An interactive cryptography challenge for aspiring computer science students. Decrypt the system, find the hidden key, and bypass the security gate.",
+  "requestFramePermissions": []
+}
