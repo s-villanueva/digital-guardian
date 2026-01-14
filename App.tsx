@@ -235,7 +235,7 @@ const App: React.FC = () => {
                 <ul className="text-[11px] text-[#00FF41]/70 space-y-2 list-none mono">
                   <li className="flex gap-2"><span className="text-[#00FF41] font-bold">A.</span> Inspecciona el archivo "kernel/proc.c".</li>
                   <li className="flex gap-2"><span className="text-[#00FF41] font-bold">B.</span> Identifica la variable RECOVERY_PTR.</li>
-                  <li className="flex gap-2"><span className="text-[#00FF41] font-bold">C.</span> Decodifica: B64 -> HEX -> FLAG.</li>
+                  <li className="flex gap-2"><span className="text-[#00FF41] font-bold">C.</span> Decodifica: B64 - HEX - FLAG.</li>
                 </ul>
               </div>
             </div>
